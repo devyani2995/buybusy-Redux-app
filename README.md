@@ -10,9 +10,10 @@
   - Cart and order data will remain saved inside the database.
 
 # Tool used:
-  - Reactjs.
-  - Redux-toolkit.
-  - react-router-dom.
-  - react-toastify.
-  - JavaScript.
+  - ReactJS
+  - Redux-toolkit
+  - react-router-dom
+  - firebase
+  - react-toastify
+  - JavaScript
   - CSS.
